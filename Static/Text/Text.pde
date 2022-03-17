@@ -1,4 +1,4 @@
-String title = "Doopy Do";
+String title = "Doopty Do";
 float titleX, titleY, titleWidth, titleHeight;
 PFont titleFont;
 color blue=#6DB6E5, resetDefaultInk=#FFFFFF;
