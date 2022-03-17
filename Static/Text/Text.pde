@@ -1,4 +1,4 @@
-String title = "Doopty Do";
+String title = "Doopty Doo!";
 float titleX, titleY, titleWidth, titleHeight;
 PFont titleFont;
 color blue=#6DB6E5, resetDefaultInk=#FFFFFF;
@@ -16,7 +16,7 @@ titleHeight = displayHeight*1/10; //Rect ends at 2/10's of height
 //Fonts from OS(operating system)
 //String[] fontList = PFont.list(); //To list all fonts available on OS
 //printArray(fontList);
-titleFont = createFont("Helvetica", 55);//Verify the font exists in Processing
+titleFont = createFont("Helvetica", 100);//Verify the font exists in Processing
 //Tools / Create Font / Find Font / Do not press "OK", known bug
 //
 //
